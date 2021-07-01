@@ -1,7 +1,3 @@
-/* browser로 부터 request 받기 */
-/* https://www.notion.so/browser-request-7ba30cd7e7474c6680be83577f55ee09 */
-/* 참고 https://github.com/zappala/socket-programming-examples-c */
-
 #include "Server.hpp"
 
 Server::Server(int port)
